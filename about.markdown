@@ -12,9 +12,9 @@ Hello, I'm Dr. Federica Vinella, a front-end developer and UX researcher with a 
 
 With a PhD in HCI from Utrecht University, I bring a unique profile that bridges academic research, design thinking, and practical software development. I specialize in building user-centred front-end solutions where every design decision is guided by real user needs, usability evidence, and empathy.
 
-Over the years, I've worked on enterprise-scale applications for global companies, helped early-stage startups shape their product strategies, and published research in the field of interaction design. I’m certified as an OutSystems Associate Reactive Developer and Software Architect, and I thrive in environments where research, design, and code come together to serve people.
+Over the years, I've worked on enterprise-scale applications for global companies, helped early-stage startups shape their product strategies, and [published research](https://scholar.google.com/citations?user=OwL4wBsAAAAJ&hl=en) in the field of interaction design for online team work and inclusivity. I’m [certified](https://www.outsystems.com/profile/rbztusb5wh/overview) as an OutSystems Associate Reactive Developer and Software Architect, and I thrive in environments where research, design, and code come together to serve people.
 
-My journey began in the world of fine arts, which continues to shape how I approach problem-solving — with creativity, sensitivity, and an eye for detail. Whether I’m conducting usability testing, prototyping in Figma, or writing clean, maintainable code, I aim to create digital tools that are not only functional but also intuitive and delightful to use.
+My journey began in the world of [fine arts](https://www.behance.net/FedericaLuciaVinella#), which continues to shape how I approach problem-solving — with creativity, sensitivity, and an eye for detail. Whether I’m conducting usability testing, rapid prototyping, or writing clean, maintainable code, I aim to create digital tools that are not only functional but also intuitive and delightful to use.
 
 I’m currently looking for opportunities where I can contribute to front-end development teams with a strong UX focus, especially those committed to inclusive design and user-driven innovation.
 
